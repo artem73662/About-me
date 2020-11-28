@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: royalblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.new-profile {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.new-profile img {
+    height: 400px;
+    width: 400px;
+}
+
+.info  {
+    margin: 0 32px;
+}
+
+.info ul {
+    border: 1px solid red;
+    padding: 15px;
+    columns: 2;
+}
+.body {
+    background-color: black;
+}
